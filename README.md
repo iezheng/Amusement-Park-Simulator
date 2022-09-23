@@ -1,2 +1,11 @@
-# CSE-214-Homework-4
-Homework 4 from course CSE 214 Data Structure in Stony Brook University.
+#Amusement Park Simulator
+Description:
+This amusement park simulator includes 4 rides and 3 tiers of customers, each with their own perks.
+
+External Libraries:
+Scanner - used to take user input
+ArrayList - used to create queues data structure
+
+Instructions:
+Run the SevenFlags.java and it will prompt you to input the number of customers in each tier, how long the simulator should last, 
+as well as the duration, capacity, and holding queue size of each ride.
