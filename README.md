@@ -3,7 +3,6 @@ This amusement park simulator includes 4 rides and 3 tiers of customers, each wi
 
 External Libraries:
 Scanner - used to take user input
-
 ArrayList - used to create queues data structure
 
 Instructions:
