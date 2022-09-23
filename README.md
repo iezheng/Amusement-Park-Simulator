@@ -1,4 +1,3 @@
-#Amusement Park Simulator
 Description:
 This amusement park simulator includes 4 rides and 3 tiers of customers, each with their own perks.
 
